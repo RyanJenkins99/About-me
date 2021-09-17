@@ -2,8 +2,8 @@
 
 ## I'm a Student
 
--
-- 🔭 I’m currently learning everything 
+
+- 🔭 I’m currently Studying (Bsc) Applied Computing in Waterford institute of Technology
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Continue my advancement in this field and learn as much as I can
 - ⚡ Fun fact: I love Sport and Making games
@@ -12,7 +12,7 @@
 
 
 [<img align="left" alt="Ryan Jenkins | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ryanjenkins99 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="ryanjenkins99 | Instagram" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP3VTm0LdHilY9nq9zQnentFPuJphHpEeskw&usqp=CAU" />][instagram]
 
 <br />
 
