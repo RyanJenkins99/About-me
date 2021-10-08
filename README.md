@@ -3,7 +3,7 @@
 ## I'm a Student
 
 
-- 🔭 I’m currently Studying (Bsc) Applied Computing in Waterford institute of Technology
+- 🔭 I’m currently Studying (Bsc) honours Applied Computing in Waterford institute of Technology
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Continue my advancement in this field and learn as much as I can
 - ⚡ Fun fact: I love Sport and Making games
